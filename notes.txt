@@ -2,4 +2,9 @@ git init
 git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/NextIshwar/SignalR.git
+
 git push -u origin master
+
+to push all the branches
+
+git push --all orgin master 
